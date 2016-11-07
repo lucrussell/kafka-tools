@@ -1,2 +1,2 @@
 # kafka-tools
-Collection of scripts for working with Kafka
+A collection of scripts for working with Kafka.
